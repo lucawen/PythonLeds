@@ -5,14 +5,14 @@ The PythonLeds is a script written in python to control LEDs via command line by
 
 
 
-Who to use
+How to use
 ==========
 
-The codes of the arduino and python is available, so you simply apply the circuit assembly and ready. You can make any changes!
+The codes of the arduino and python is available, so you simply apply the circuit assembly and ready. You can change it!
 
 Circuit:
 
-In the following tests were used: 
+In test, we used:
 
 1x Arduino UNO 
 
@@ -24,10 +24,10 @@ In the following tests were used:
 
 3x Resistors 300R 
 
-You must turn the LEDs on pins 8,9 and 12 of the Arduino.
+You have to connect the LEDS on pins 8,9 and 12 of the Arduino.
 
 ---------------
-Future updates will add a graphical interface.
+Future updates: Add GUI.
 
 
 PT-BR
