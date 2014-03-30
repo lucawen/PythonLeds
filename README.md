@@ -15,9 +15,13 @@ Circuit:
 In the following tests were used: 
 
 1x Arduino UNO 
+
 1x Led Red 
+
 1x Led Green 
+
 1x Led Violet 
+
 3x Resistors 300R 
 
 You must turn the LEDs on pins 8,9 and 12 of the Arduino.
@@ -38,10 +42,15 @@ Os códigos do arduino e do Python estão disponíveis, então você simplesment
 Circuito:
 
 Nos testes foram usados os seguintes itens:
+
 1x Arduino UNO
+
 1x Led Vermelho
+
 1x Led Verde
+
 1x Led Violeta
+
 3x Resistores de 300R
 
 Você deve ligar os eds nos pinos 8,9 e 12 do arduino.
